@@ -13,3 +13,4 @@ API documentation in Swagger format is available here: [http://localhost:3000](h
 ## TODO
 
 1. Unit tests!
+2. Persistence layer - I faked database inside [DatabaseProvider.js](./src/providers/DatabaseProvider.js) for sake of simplicity. 
